@@ -3,7 +3,7 @@
     "description": "BOBIZMD  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://telegra.ph/file/201b5c02be1e336a29c60.jpg",
     "keywords": ["whatsapp", "userbot", "bobiz", "bot", "ai" , "MD" ],
-    "repository": "https://github.com/bobizbotmd/BOBIZ-MD",
+    "repository": "https://github.com/azaa887777/BOBIZ-MD",
     "website":   "",
     "success_url": "",
     "stack": "container",
@@ -31,7 +31,7 @@
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://github.com/bobizbotmd/BOBIZ-MD" ,
+            "value": "https://github.com/azaa887777/BOBIZ-MD" ,
             "required": true
       },
       
